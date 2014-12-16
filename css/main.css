@@ -95,6 +95,7 @@ a:hover {
 }
 .no-cssgradients aside {
   background: #ddd;
+  border-radius: 10px / 20px;
 }
 
 .lt-ie9 img {
