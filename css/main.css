@@ -97,7 +97,7 @@ a:hover {
   background: #ddd;
 }
 
-img {
+.lt-ie9 img {
   -webkit-transform: rotate(30deg);
       -ms-transform: rotate(30deg);
           transform: rotate(30deg);
